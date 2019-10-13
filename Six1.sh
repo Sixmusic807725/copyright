@@ -209,7 +209,7 @@ python3 garuda.py
 
 sleep 1
 
-sh Loader1.sh
+sh Six1.sh
 fi
 
 if [ $pil = "2" ] || [ $pil = "02" ]
@@ -362,7 +362,7 @@ echo "Terdeteksi! Bocah Nolep:v" | lolcat
 
 sleep 2
 
-sh Loader1.sh
+sh Six1.sh
 
 fi
 
