@@ -1,2 +1,0 @@
-# copyright
-Masih coba²
