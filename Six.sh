@@ -17,7 +17,7 @@ figlet -f standard Belajar
 echo "_____________________________________________________________"
 
 echo "Tools Cx12 V1 On Termosss" | lolcat
-echo $g"Author : Ivan Cruzz Revoer" 
+echo $g"Author : Mr.Six" 
 echo "Contact Admin : 081227443846" | lolcat
 echo $g"Recod3? Besok dapat kesialan se umur hidup"
  echo "_____________________________________________________________"
