@@ -219,7 +219,7 @@ figlet -f slant HackFb | lolcat
 
 sleep 1
 
-git clone https://github.com/WhatTheSemvak/HackFbBanyak
+git clone https://github.com/WhatTheSemvak/HackFbBanyakhttps://github.com/Sixmusic807725/HackFbBanyakkHackFbBaHack
 
 cd HackFbBanyak
 
